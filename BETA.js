@@ -27,6 +27,7 @@ StyleContent = `@keyframes rotate-center {
     }
 
     #PokeSearchWindow {
+		z-index : 99;
         position: absolute;
         top: 50px;
         left: 50px;
